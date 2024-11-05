@@ -20,7 +20,7 @@ Welcome to the **Tetris Game Project**! This is a classic Tetris game built from
 
 - **C++ Compiler**: Compatible with C++17 or higher.
 - **CMake**: Version 3.15 or higher.
-- **Raylib**: (pre-compiled)
+- **Raylib**: (Automatically downloaded if not present for the auto-fetching version)
 
 ### 📂 Clone the Repository
 
